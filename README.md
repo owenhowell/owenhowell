@@ -1,16 +1,20 @@
-## Hi there 👋
+# Owen Howell
 
-<!--
-**owenhowell/owenhowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation / API Testing / Systems Reliability / Technical Process Automation
 
-Here are some ideas to get you started:
+I’m focused on QA automation, API and integration testing, Docker-based test environments, REST/JSON validation, Robot Framework, Python, systems-oriented troubleshooting, and technical process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured portfolio: QA, Systems, and Automation Portfolio
+
+Current focus areas:
+
+- Robot Framework smoke and regression testing
+- REST/JSON API validation
+- OpenAPI/Swagger checks
+- Docker/WSL2 test environments
+- Async workflow validation
+- Access-control validation
+- n8n and LLM-assisted process automation
+- Security-aware QA practices
+
+CompTIA Security+ certified.
