@@ -4,7 +4,7 @@ QA Automation / API Testing / Systems Reliability / Technical Process Automation
 
 I’m focused on QA automation, API and integration testing, Docker-based test environments, REST/JSON validation, Robot Framework, Python, systems-oriented troubleshooting, and technical process automation.
 
-Featured portfolio: QA, Systems, and Automation Portfolio
+**Featured portfolio:** [QA, Systems, and Automation Portfolio](https://github.com/owenhowell/qa-systems-automation-portfolio)
 
 Current focus areas:
 
